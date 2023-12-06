@@ -8,22 +8,22 @@ playerLivesCount.textContent = playerLives;
 
 //Generate the data
 const getData = () => [
-    { imgSrc: './pokepictures/bulbasaur.png', name: 'bulbasaur' },
-    { imgSrc: './pokepictures/pikachu.png', name: 'pikachu' },
-    { imgSrc: './pokepictures/charmander.png', name: 'charmander' },
-    { imgSrc: './pokepictures/gengar.png', name: 'gengar' },
-    { imgSrc: './pokepictures/squirtle.png', name: 'squirtle' },
-    { imgSrc: './pokepictures/dratini.png', name: 'dratini' },
-    { imgSrc: './pokepictures/raichu.png', name: 'raichu' },
-    { imgSrc: './pokepictures/chikorita.png', name: 'chikorita' },
-    { imgSrc: './pokepictures/bulbasaur.png', name: 'bulbasaur' },
-    { imgSrc: './pokepictures/pikachu.png', name: 'pikachu' },
-    { imgSrc: './pokepictures/charmander.png', name: 'charmander' },
-    { imgSrc: './pokepictures/gengar.png', name: 'gengar' },
-    { imgSrc: './pokepictures/squirtle.png', name: 'squirtle' },
-    { imgSrc: './pokepictures/dratini.png', name: 'dratini' },
-    { imgSrc: './pokepictures/raichu.png', name: 'raichu' },
-    { imgSrc: './pokepictures/chikorita.png', name: 'chikorita' },
+    { imgSrc: 'bulbasaur.png', name: 'bulbasaur' },
+    { imgSrc: 'pikachu.png', name: 'pikachu' },
+    { imgSrc: 'charmander.png', name: 'charmander' },
+    { imgSrc: 'gengar.png', name: 'gengar' },
+    { imgSrc: 'squirtle.png', name: 'squirtle' },
+    { imgSrc: 'dratini.png', name: 'dratini' },
+    { imgSrc: 'raichu.png', name: 'raichu' },
+    { imgSrc: 'chikorita.png', name: 'chikorita' },
+    { imgSrc: 'bulbasaur.png', name: 'bulbasaur' },
+    { imgSrc: 'pikachu.png', name: 'pikachu' },
+    { imgSrc: 'charmander.png', name: 'charmander' },
+    { imgSrc: 'gengar.png', name: 'gengar' },
+    { imgSrc: 'squirtle.png', name: 'squirtle' },
+    { imgSrc: 'dratini.png', name: 'dratini' },
+    { imgSrc: 'raichu.png', name: 'raichu' },
+    { imgSrc: 'chikorita.png', name: 'chikorita' },
 ];
 
 //function to randomize the cards
